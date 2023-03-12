@@ -1,0 +1,11 @@
+.header{
+    color: blueviolet;
+}
+
+
+.border {
+    color:navy;
+    border-width: 2px;
+    border-color: blue;
+    border-style:double;
+}
